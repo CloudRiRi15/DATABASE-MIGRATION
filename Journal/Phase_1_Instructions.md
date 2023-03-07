@@ -77,6 +77,8 @@ You should see the `Animals4life Hall of Fame` load... this is running from the 
 
 This verifies that my Infrastructure is running.   
 
+Now I move to the [Phase 2](https://github.com/CloudRiRi15/DATABASE-MIGRATION/blob/main/Journal/Phase_2_instructions.md) part of this hands-on lab. 
+
 
 
  
