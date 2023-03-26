@@ -54,7 +54,7 @@ From the `EC2 Dashboard` in the Resources panel Click `Instances (running)`
 
 
 
-I notice that there are 2 instances running `CatWeb` and `CatDB` 
+I notice that there are 2 instances running `CatWeb` and `CatDB`. **CatWeb** is the simulated virtual machine webserver and **CatDB** is the simulated virtual machine self managed database.
 
 ![](https://github.com/CloudRiRi15/DATABASE-MIGRATION/blob/main/assets/Step%202b%20Verify%20Infrastructure%20is%20running.png)
 
