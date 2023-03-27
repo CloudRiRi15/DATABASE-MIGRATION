@@ -1,3 +1,6 @@
+![](https://github.com/CloudRiRi15/DATABASE-MIGRATION/blob/main/assets/migrate-with-aws.png)
+
+
 This is the documentation of a hands-on project I did on database migration using AWS Database Migration Service. 
 
 ## AWS Database Migration Service
